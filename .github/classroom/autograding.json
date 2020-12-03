@@ -3,7 +3,7 @@
     {
       "name": "Sumar pares for",
       "setup": "npm install",
-      "run": "npm run test sumaParesFor.test.js",
+      "run": "npm run test sumarParesFor.test.js",
       "input": "",
       "output": "",
       "comparison": "included",

@@ -19,19 +19,19 @@ Ejercicio para demostrar la forma en la se puede ejecutar sentencias de manera r
      - `sumarParesFor();`
 
 2. (1.5 Puntos) Utilizando for. Escribir una función que determine cuantos números impares existen en un determinado intervalo.
-     - `contarImparesFor();`
+     - `contarImparesFor(inicio, fin);`
 
 3. (2 Puntos) Utilizando while. Escribir una función que determine la suma de los números pares que existen entre 1 y 20.
      - `sumarParesWhile();`
 
 4. (1.5 Puntos) Utilizando while. Escribir una función que determine cuantos números impares existen en un determinado intervalo.
-     - `contarImparesWhile();`
+     - `contarImparesWhile(inicio, fin);`
 
 5. (2 Puntos) Utilizando do..while. Escribir una función que determine la suma de los números pares que existen entre 1 y 20.
      - `sumarParesDo();`
 
 6. (2 Puntos) Utilizando do..while. Escribir una función que determine cuantos números impares existen en un determinado intervalo.
-     - `contarImparesDo();`
+     - `contarImparesDo(inicio, fin);`
 
 ## Requerimientos no funcionales
 

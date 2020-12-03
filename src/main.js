@@ -9,6 +9,8 @@ export default class App {
     
     return suma;
   }
+
+  contarImpares
 }
 
 let app = new App();
